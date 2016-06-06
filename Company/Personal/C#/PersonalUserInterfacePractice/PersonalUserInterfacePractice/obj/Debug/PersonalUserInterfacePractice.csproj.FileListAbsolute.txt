@@ -1,0 +1,9 @@
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\bin\Debug\PersonalUserInterfacePractice.exe.config
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\bin\Debug\PersonalUserInterfacePractice.exe
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\bin\Debug\PersonalUserInterfacePractice.pdb
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\obj\Debug\PersonalUserInterfacePractice.csprojResolveAssemblyReference.cache
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\obj\Debug\PersonalUserInterfacePractice.Form1.resources
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\obj\Debug\PersonalUserInterfacePractice.Properties.Resources.resources
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\obj\Debug\PersonalUserInterfacePractice.csproj.GenerateResource.Cache
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\obj\Debug\PersonalUserInterfacePractice.exe
+C:\Users\CodyS\Documents\ProgramVault\Company\Personal\C#\PersonalUserInterfacePractice\PersonalUserInterfacePractice\obj\Debug\PersonalUserInterfacePractice.pdb
