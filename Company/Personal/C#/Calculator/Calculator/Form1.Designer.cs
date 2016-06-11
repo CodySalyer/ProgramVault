@@ -52,7 +52,7 @@
 			this.button7.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
 			this.button7.Location = new System.Drawing.Point(15, 48);
 			this.button7.Name = "button7";
-			this.button7.Size = new System.Drawing.Size(40, 30);
+			this.button7.Size = new System.Drawing.Size(40, 25);
 			this.button7.TabIndex = 0;
 			this.button7.Text = "7";
 			this.button7.UseVisualStyleBackColor = true;
@@ -61,9 +61,9 @@
 			// button4
 			// 
 			this.button4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button4.Location = new System.Drawing.Point(15, 77);
+			this.button4.Location = new System.Drawing.Point(14, 79);
 			this.button4.Name = "button4";
-			this.button4.Size = new System.Drawing.Size(40, 30);
+			this.button4.Size = new System.Drawing.Size(40, 25);
 			this.button4.TabIndex = 0;
 			this.button4.Text = "4";
 			this.button4.UseVisualStyleBackColor = true;
@@ -74,7 +74,7 @@
 			this.button8.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
 			this.button8.Location = new System.Drawing.Point(57, 48);
 			this.button8.Name = "button8";
-			this.button8.Size = new System.Drawing.Size(40, 30);
+			this.button8.Size = new System.Drawing.Size(40, 25);
 			this.button8.TabIndex = 0;
 			this.button8.Text = "8";
 			this.button8.UseVisualStyleBackColor = true;
@@ -83,9 +83,9 @@
 			// button5
 			// 
 			this.button5.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button5.Location = new System.Drawing.Point(57, 77);
+			this.button5.Location = new System.Drawing.Point(56, 79);
 			this.button5.Name = "button5";
-			this.button5.Size = new System.Drawing.Size(40, 30);
+			this.button5.Size = new System.Drawing.Size(40, 25);
 			this.button5.TabIndex = 0;
 			this.button5.Text = "5";
 			this.button5.UseVisualStyleBackColor = true;
@@ -96,7 +96,7 @@
 			this.button9.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
 			this.button9.Location = new System.Drawing.Point(99, 48);
 			this.button9.Name = "button9";
-			this.button9.Size = new System.Drawing.Size(40, 30);
+			this.button9.Size = new System.Drawing.Size(40, 25);
 			this.button9.TabIndex = 0;
 			this.button9.Text = "9";
 			this.button9.UseVisualStyleBackColor = true;
@@ -105,9 +105,9 @@
 			// button6
 			// 
 			this.button6.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button6.Location = new System.Drawing.Point(99, 77);
+			this.button6.Location = new System.Drawing.Point(98, 79);
 			this.button6.Name = "button6";
-			this.button6.Size = new System.Drawing.Size(40, 30);
+			this.button6.Size = new System.Drawing.Size(40, 25);
 			this.button6.TabIndex = 0;
 			this.button6.Text = "6";
 			this.button6.UseVisualStyleBackColor = true;
@@ -116,9 +116,9 @@
 			// button1
 			// 
 			this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button1.Location = new System.Drawing.Point(15, 106);
+			this.button1.Location = new System.Drawing.Point(15, 110);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(40, 30);
+			this.button1.Size = new System.Drawing.Size(40, 25);
 			this.button1.TabIndex = 0;
 			this.button1.Text = "1";
 			this.button1.UseVisualStyleBackColor = true;
@@ -127,9 +127,9 @@
 			// button2
 			// 
 			this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button2.Location = new System.Drawing.Point(57, 106);
+			this.button2.Location = new System.Drawing.Point(57, 110);
 			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(40, 30);
+			this.button2.Size = new System.Drawing.Size(40, 25);
 			this.button2.TabIndex = 0;
 			this.button2.Text = "2";
 			this.button2.UseVisualStyleBackColor = true;
@@ -140,9 +140,9 @@
 			this.button3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
 			this.button3.BackColor = System.Drawing.SystemColors.Control;
 			this.button3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-			this.button3.Location = new System.Drawing.Point(99, 106);
+			this.button3.Location = new System.Drawing.Point(99, 110);
 			this.button3.Name = "button3";
-			this.button3.Size = new System.Drawing.Size(40, 30);
+			this.button3.Size = new System.Drawing.Size(40, 25);
 			this.button3.TabIndex = 0;
 			this.button3.Text = "3";
 			this.button3.UseVisualStyleBackColor = false;
@@ -151,9 +151,9 @@
 			// button0
 			// 
 			this.button0.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button0.Location = new System.Drawing.Point(15, 132);
+			this.button0.Location = new System.Drawing.Point(14, 141);
 			this.button0.Name = "button0";
-			this.button0.Size = new System.Drawing.Size(40, 30);
+			this.button0.Size = new System.Drawing.Size(40, 25);
 			this.button0.TabIndex = 0;
 			this.button0.Text = "0";
 			this.button0.UseVisualStyleBackColor = true;
@@ -162,9 +162,9 @@
 			// buttonEqu
 			// 
 			this.buttonEqu.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.buttonEqu.Location = new System.Drawing.Point(99, 132);
+			this.buttonEqu.Location = new System.Drawing.Point(98, 141);
 			this.buttonEqu.Name = "buttonEqu";
-			this.buttonEqu.Size = new System.Drawing.Size(40, 30);
+			this.buttonEqu.Size = new System.Drawing.Size(40, 25);
 			this.buttonEqu.TabIndex = 0;
 			this.buttonEqu.Text = "CLR";
 			this.buttonEqu.UseVisualStyleBackColor = true;
@@ -173,9 +173,9 @@
 			// buttonMult
 			// 
 			this.buttonMult.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.buttonMult.Location = new System.Drawing.Point(141, 106);
+			this.buttonMult.Location = new System.Drawing.Point(141, 110);
 			this.buttonMult.Name = "buttonMult";
-			this.buttonMult.Size = new System.Drawing.Size(40, 30);
+			this.buttonMult.Size = new System.Drawing.Size(40, 25);
 			this.buttonMult.TabIndex = 0;
 			this.buttonMult.Text = "*";
 			this.buttonMult.UseVisualStyleBackColor = true;
@@ -184,9 +184,9 @@
 			// buttonDiv
 			// 
 			this.buttonDiv.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.buttonDiv.Location = new System.Drawing.Point(141, 132);
+			this.buttonDiv.Location = new System.Drawing.Point(140, 141);
 			this.buttonDiv.Name = "buttonDiv";
-			this.buttonDiv.Size = new System.Drawing.Size(40, 30);
+			this.buttonDiv.Size = new System.Drawing.Size(40, 25);
 			this.buttonDiv.TabIndex = 0;
 			this.buttonDiv.Text = "/";
 			this.buttonDiv.UseVisualStyleBackColor = true;
@@ -197,7 +197,7 @@
 			this.buttonAdd.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
 			this.buttonAdd.Location = new System.Drawing.Point(141, 48);
 			this.buttonAdd.Name = "buttonAdd";
-			this.buttonAdd.Size = new System.Drawing.Size(40, 30);
+			this.buttonAdd.Size = new System.Drawing.Size(40, 25);
 			this.buttonAdd.TabIndex = 0;
 			this.buttonAdd.Text = "+";
 			this.buttonAdd.UseVisualStyleBackColor = true;
@@ -206,9 +206,9 @@
 			// buttonSub
 			// 
 			this.buttonSub.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.buttonSub.Location = new System.Drawing.Point(141, 77);
+			this.buttonSub.Location = new System.Drawing.Point(140, 79);
 			this.buttonSub.Name = "buttonSub";
-			this.buttonSub.Size = new System.Drawing.Size(40, 30);
+			this.buttonSub.Size = new System.Drawing.Size(40, 25);
 			this.buttonSub.TabIndex = 0;
 			this.buttonSub.Text = "-";
 			this.buttonSub.UseVisualStyleBackColor = true;
@@ -228,9 +228,9 @@
 			// button10
 			// 
 			this.button10.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-			this.button10.Location = new System.Drawing.Point(58, 132);
+			this.button10.Location = new System.Drawing.Point(57, 141);
 			this.button10.Name = "button10";
-			this.button10.Size = new System.Drawing.Size(40, 30);
+			this.button10.Size = new System.Drawing.Size(40, 25);
 			this.button10.TabIndex = 0;
 			this.button10.Text = "=";
 			this.button10.UseVisualStyleBackColor = true;
@@ -240,7 +240,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(195, 179);
+			this.ClientSize = new System.Drawing.Size(195, 183);
 			this.Controls.Add(this.screen);
 			this.Controls.Add(this.buttonSub);
 			this.Controls.Add(this.buttonAdd);

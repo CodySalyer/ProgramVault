@@ -34,14 +34,12 @@ namespace Calculator
 		}
 		private void Button_Op(object sender, EventArgs e)
 		{
-			//Button opperator = (Button)sender;
 			Button buttonText = (Button)sender;
 			opp[n] = buttonText.Text;
 			switch (opp[n])
 			{
 				case "CLR":
 					screen.Text = "";
-					//double[] calcNumbers = new double[10];
 					n = 1;
 				break;
 
