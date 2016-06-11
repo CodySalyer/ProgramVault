@@ -12,9 +12,11 @@ namespace PersonalUserInterfacePractice
 {
     public partial class Form1 : Form
     {
+		public int ValueA { get; set; }
+
         public Form1()
         {
-            InitializeComponent();
+	            InitializeComponent();
         }
 
         private void buttonTest_Click(object sender, EventArgs e)

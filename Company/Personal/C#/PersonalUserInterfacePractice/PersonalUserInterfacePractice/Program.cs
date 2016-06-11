@@ -14,9 +14,21 @@ namespace PersonalUserInterfacePractice
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-        }
+			Dog d = new Dog();
+			d.Bark();
+
+   //         Application.EnableVisualStyles();
+   //         Application.SetCompatibleTextRenderingDefault(false);
+
+			//Form1 form = new Form1();
+			//form.ValueA = 3;
+   //         Application.Run();
+
+       }
+
+		public static Dog GetOne()
+		{
+			return new Dog();
+		}
     }
 }
